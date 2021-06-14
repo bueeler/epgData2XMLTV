@@ -1,1 +1,5 @@
+.gitignore
 playlist.m3u
+.vscode/**
+epgdata_files/**
+output/**
